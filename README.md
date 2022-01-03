@@ -10,4 +10,5 @@ Ignews é um blog por inscrição paga, que reune novidades e conteúdos sobre o
 - FaunaDB
 - Next Auth
 - Stripe
+- Prismic CMS
 - Sass
