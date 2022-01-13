@@ -29,7 +29,3 @@ Como banco de dados, a escolha foi utilizar o **[FaunaDB](https://fauna.com/)**,
 Para integração com pagamentos, foi utilizado a ferramenta **[Stripe](https://stripe.com/)**, que permite lidar com essas transações de forma mais simples e segura.
 
 Como a aplicação trata-se de um blog, para facilitar o gerenciamento dos posts, utilizamos o CMS **[Prismic](https://prismic.io/)**.
-
-## Ambiente de produção 🚀
-
-🚧 Em desenvolvimento... 🚧
